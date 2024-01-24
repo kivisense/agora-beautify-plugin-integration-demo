@@ -1,0 +1,16 @@
+export default {
+  turnOn: "开启滤镜效果",
+  turnOff: "关闭滤镜效果",
+  Beautify: "Beautify",
+  Moonlight: "Moonlight",
+  Sienna: "Sienna",
+  Villa: "Villa",
+  Linen: "Linen",
+  Honey: "Honey",
+  Marine: "Marine",
+  Sable: "Sable",
+  VintageFilm: "VintageFilm",
+  Hongkong: "Hongkong",
+  River: "River",
+  Dusk: "Dusk",
+};

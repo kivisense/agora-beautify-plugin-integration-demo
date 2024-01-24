@@ -1,0 +1,16 @@
+export default {
+  turnOn: "TURN ON EFFECT",
+  turnOff: "TURN OFF EFFECT",
+  Beautify: "Beautify",
+  Moonlight: "Moonlight",
+  Sienna: "Sienna",
+  Villa: "Villa",
+  Linen: "Linen",
+  Honey: "Honey",
+  Marine: "Marine",
+  Sable: "Sable",
+  VintageFilm: "VintageFilm",
+  Hongkong: "Hongkong",
+  River: "River",
+  Dusk: "Dusk",
+};
